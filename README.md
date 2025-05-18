@@ -1,1 +1,1 @@
-# boro
+# borServicio para comprimir imagenes
